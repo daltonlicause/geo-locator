@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node geo-locator.js"
+  },
+  "keywords": [],
+  "author": "Dalton Licause",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "axios": "^1.7.7",
+    "css-loader": "^6.4.0",
+    "csv-parser": "^3.0.0",
+    "file-loader": "^6.2.0",
+    "fs": "^0.0.1-security"
+  }
+}
